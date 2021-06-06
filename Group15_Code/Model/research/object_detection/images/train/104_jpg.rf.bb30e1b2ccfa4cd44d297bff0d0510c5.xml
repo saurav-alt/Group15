@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>104_jpg.rf.bb30e1b2ccfa4cd44d297bff0d0510c5.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\train\104_jpg.rf.bb30e1b2ccfa4cd44d297bff0d0510c5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mudraakhyam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>141</ymin>
+			<xmax>619</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>

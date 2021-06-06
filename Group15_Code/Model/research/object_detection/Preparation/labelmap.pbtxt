@@ -1,0 +1,30 @@
+
+item {
+  id: 1
+  name: 'Pathaaka'
+
+}
+
+item {
+  id: 2
+  name: 'Mudraakhyam'
+
+}
+
+item {
+  id: 3
+  name: 'Katakam'
+
+}
+
+item {
+  id: 4
+  name: 'Mushti'
+
+}
+
+item {
+  id: 5
+  name: 'Kartharee Mukham'
+
+}

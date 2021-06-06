@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>33_jpg.rf.ee7d82b973e75fc72314143285470fa5.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\test\33_jpg.rf.ee7d82b973e75fc72314143285470fa5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pathaaka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>310</ymin>
+			<xmax>651</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

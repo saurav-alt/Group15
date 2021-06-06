@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>224_jpg.rf.4fcb9cd1ec17f90b3cf4549267c4d639.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\train\224_jpg.rf.4fcb9cd1ec17f90b3cf4549267c4d639.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Katakam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>208</ymin>
+			<xmax>563</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

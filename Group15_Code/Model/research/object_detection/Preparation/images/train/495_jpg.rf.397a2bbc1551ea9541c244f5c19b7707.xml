@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>495_jpg.rf.397a2bbc1551ea9541c244f5c19b7707.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\train\495_jpg.rf.397a2bbc1551ea9541c244f5c19b7707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kartharee Mukham</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>163</ymin>
+			<xmax>592</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

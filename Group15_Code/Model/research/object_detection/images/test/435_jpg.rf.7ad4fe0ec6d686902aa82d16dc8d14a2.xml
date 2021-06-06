@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>435_jpg.rf.7ad4fe0ec6d686902aa82d16dc8d14a2.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\test\435_jpg.rf.7ad4fe0ec6d686902aa82d16dc8d14a2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kartharee Mukham</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>71</ymin>
+			<xmax>605</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

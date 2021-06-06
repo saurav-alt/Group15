@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>113_jpg.rf.56927b2d37e16156d4d9f78792a9accc.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\test\113_jpg.rf.56927b2d37e16156d4d9f78792a9accc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mudraakhyam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>197</ymin>
+			<xmax>496</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

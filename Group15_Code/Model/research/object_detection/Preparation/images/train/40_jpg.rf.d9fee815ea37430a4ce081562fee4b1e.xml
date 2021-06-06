@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>40_jpg.rf.d9fee815ea37430a4ce081562fee4b1e.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\train\40_jpg.rf.d9fee815ea37430a4ce081562fee4b1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pathaaka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>41</ymin>
+			<xmax>496</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

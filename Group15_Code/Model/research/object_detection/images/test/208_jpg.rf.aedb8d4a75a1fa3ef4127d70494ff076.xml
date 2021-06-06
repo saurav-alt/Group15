@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>208_jpg.rf.aedb8d4a75a1fa3ef4127d70494ff076.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\test\208_jpg.rf.aedb8d4a75a1fa3ef4127d70494ff076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Katakam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>64</ymin>
+			<xmax>575</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
