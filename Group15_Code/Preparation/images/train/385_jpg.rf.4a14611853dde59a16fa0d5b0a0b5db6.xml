@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>385_jpg.rf.4a14611853dde59a16fa0d5b0a0b5db6.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\train\385_jpg.rf.4a14611853dde59a16fa0d5b0a0b5db6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mushti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>304</ymin>
+			<xmax>750</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>338_jpg.rf.efadd59bcaeea14a14d766e2fd3a6f95.jpg</filename>
+	<path>C:\Users\saura\Desktop\Preparation\images\test\338_jpg.rf.efadd59bcaeea14a14d766e2fd3a6f95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mushti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>266</ymin>
+			<xmax>495</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>
